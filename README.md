@@ -27,7 +27,7 @@
 <p>&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qazimtalhatariq&theme=github_dark" alt="qazimtalhatariq"/></p>
 
 
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qazimtalhatariq&theme=github_dark" alt="qazimtalhatariq"/></p>
+<p>&nbsp;<img alaign="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qazimtalhatariq&theme=github_dark" alt="qazimtalhatariq"/></p>
 
 
 <p>&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qazimtalhatariq&theme=github_dark" alt="qazimtalhatariq"/></p>
