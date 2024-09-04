@@ -24,7 +24,7 @@
 <p>&nbsp;<img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qazimtalhatariq&theme=github_dark" alt="qazimtalhatariq" /></p>
 <p>&nbsp;<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qazimtalhatariq&theme=github_dark" alt="qazimtalhatariq"/></p>
 <p>&nbsp;<img align="center" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qazimtalhatariq&theme=github_dark" alt="qazimtalhatariq"/></p>
-<p>&nbsp;<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qazimtalhatariq&theme=github_dark" alt="qazimtalhatariq"/></p>
+<p>&nbsp;<img align="left" class="gap-2" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qazimtalhatariq&theme=github_dark" alt="qazimtalhatariq"/></p>
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qazimtalhatariq&theme=github_dark&utcOffset=8" alt="qazimtalhatariq"/></p>
 
 
