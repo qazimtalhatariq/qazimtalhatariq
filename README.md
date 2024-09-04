@@ -1,7 +1,7 @@
 ![Image](https://github.com/qazimtalhatariq/qazimtalhatariq/blob/main/BlueBlackSimpleTechnologyLinktreeBackground-ezgif.com-video-to-gif-converter.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Talha Tariq</h1>
 <h3 align="center">Cloud Applied Generative Ai Engineer(GenEng)</h3>
-<imge align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qazimtalhatariq&label=Profile%20views&color=0e75b6&style=flat" alt="qazimtalhatariq" /> </p>
 
 - 🌱 I’m currently learning **Frontend Development, Backend Development, and Generative AI**
