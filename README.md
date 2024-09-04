@@ -27,10 +27,6 @@
 
 ###
 
-<img src="https://github.com/qazimtalhatariq/qazimtalhatariq/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qazimtalhatariq&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qazimtalhatariq&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qazimtalhatariq&theme=github_dark)
