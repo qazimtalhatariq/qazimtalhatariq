@@ -27,7 +27,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/qazimtalhatariq/qazimtalhatariq/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/qazimtalhatariq/qazimtalhatariq/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
